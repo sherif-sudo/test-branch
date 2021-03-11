@@ -1,8 +1,1 @@
-<<<<<<< .mine
-hello world11
-=======
-11hello world
->>>>>>> .theirs
-hello world3
-hello world4
-hello world5
+hello world
